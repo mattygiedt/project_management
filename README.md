@@ -5,7 +5,6 @@ Tools and resources for managing software development
 - https://martinfowler.com/articles/cant-buy-integration.html
 - https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at
 
-
 ## Approll
 
 - https://docs.dagster.io/getting-started
@@ -14,3 +13,10 @@ Tools and resources for managing software development
 
 ## Tools
 - https://buf.build/
+
+## C++ APIs
+- https://redpanda.com/
+- https://github.com/p-ranav/awesome-hpp
+- https://github.com/danielealbano/cachegrand
+- https://github.com/Netflix/cachemover
+- https://github.com/hosseinmoein/DataFrame
